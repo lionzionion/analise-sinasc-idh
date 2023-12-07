@@ -12,7 +12,7 @@ O código-fonte completo está disponível no GitHub Repository.
 Para acessar o código, você pode clonar o repositório usando o seguinte comando no terminal:
 
 ```python
-[git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/lionzionion/analise-sinasc-idh.git)
+https://github.com/lionzionion/analise-sinasc-idh.git
 ```
 
 ### Estrutura do Repositório:
